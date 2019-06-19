@@ -1,0 +1,14 @@
+C:\Users\carlosandres.perez\Documents\featureFlag\POC-c#\POC-ProtectAPI\POC-ProtectAPI\bin\Debug\netcoreapp2.2\POC-ProtectAPI.deps.json
+C:\Users\carlosandres.perez\Documents\featureFlag\POC-c#\POC-ProtectAPI\POC-ProtectAPI\bin\Debug\netcoreapp2.2\POC-ProtectAPI.runtimeconfig.json
+C:\Users\carlosandres.perez\Documents\featureFlag\POC-c#\POC-ProtectAPI\POC-ProtectAPI\bin\Debug\netcoreapp2.2\POC-ProtectAPI.runtimeconfig.dev.json
+C:\Users\carlosandres.perez\Documents\featureFlag\POC-c#\POC-ProtectAPI\POC-ProtectAPI\bin\Debug\netcoreapp2.2\POC-ProtectAPI.dll
+C:\Users\carlosandres.perez\Documents\featureFlag\POC-c#\POC-ProtectAPI\POC-ProtectAPI\bin\Debug\netcoreapp2.2\POC-ProtectAPI.pdb
+C:\Users\carlosandres.perez\Documents\featureFlag\POC-c#\POC-ProtectAPI\POC-ProtectAPI\obj\Debug\netcoreapp2.2\POC-ProtectAPI.csprojAssemblyReference.cache
+C:\Users\carlosandres.perez\Documents\featureFlag\POC-c#\POC-ProtectAPI\POC-ProtectAPI\obj\Debug\netcoreapp2.2\POC-ProtectAPI.csproj.CoreCompileInputs.cache
+C:\Users\carlosandres.perez\Documents\featureFlag\POC-c#\POC-ProtectAPI\POC-ProtectAPI\obj\Debug\netcoreapp2.2\POC-ProtectAPI.RazorAssemblyInfo.cache
+C:\Users\carlosandres.perez\Documents\featureFlag\POC-c#\POC-ProtectAPI\POC-ProtectAPI\obj\Debug\netcoreapp2.2\POC-ProtectAPI.RazorAssemblyInfo.cs
+C:\Users\carlosandres.perez\Documents\featureFlag\POC-c#\POC-ProtectAPI\POC-ProtectAPI\obj\Debug\netcoreapp2.2\POC-ProtectAPI.AssemblyInfoInputs.cache
+C:\Users\carlosandres.perez\Documents\featureFlag\POC-c#\POC-ProtectAPI\POC-ProtectAPI\obj\Debug\netcoreapp2.2\POC-ProtectAPI.AssemblyInfo.cs
+C:\Users\carlosandres.perez\Documents\featureFlag\POC-c#\POC-ProtectAPI\POC-ProtectAPI\obj\Debug\netcoreapp2.2\POC-ProtectAPI.RazorTargetAssemblyInfo.cache
+C:\Users\carlosandres.perez\Documents\featureFlag\POC-c#\POC-ProtectAPI\POC-ProtectAPI\obj\Debug\netcoreapp2.2\POC-ProtectAPI.dll
+C:\Users\carlosandres.perez\Documents\featureFlag\POC-c#\POC-ProtectAPI\POC-ProtectAPI\obj\Debug\netcoreapp2.2\POC-ProtectAPI.pdb
